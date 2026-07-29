@@ -1,0 +1,5 @@
+{
+  "templatePath": "./templates/template.json",
+  "inputDir": "./inputs",
+  "outputDir": "./outputs"
+}
